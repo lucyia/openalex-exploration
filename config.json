@@ -13,7 +13,7 @@
     },
     "sample": {
         "enabled": true,
-        "size": 1000,
+        "size": 10000,
         "seed": 333
     }
 }
