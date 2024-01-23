@@ -1,0 +1,19 @@
+{
+    "filter": {
+        "publication_year": ">2010",
+        "authorships": {"institutions": {"country_code": "DK"}}
+    },
+    "db_config": {
+        "db_name": "records",
+        "works_name": "works",
+        "meta_name": "meta"
+    },
+    "pagination": {
+        "page_size": 200
+    },
+    "sample": {
+        "enabled": true,
+        "size": 1000,
+        "seed": 333
+    }
+}
